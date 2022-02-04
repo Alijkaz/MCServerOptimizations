@@ -13,8 +13,8 @@ This is probably caused by `armor-stands-tick` in  **paper.yml**. Try fixing the
 ## Hoppers are not working properly
 This is probably caused by `hopper-check` and `hopper-transfer` values in **spigot.yml**. try changing them as specified:
 ```
-      hopper-transfer: 8
-      hopper-check: 1
+hopper-transfer: 8
+hopper-check: 1
 ```
 
 ## Treasure maps are not working
