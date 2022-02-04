@@ -1,4 +1,4 @@
-# MCServerOptimizations
+# Minecraft Server Optimizations
 Optimized Minecraft server configurations that I use
 
 This is definitely not fully suitable for **EVERY** use case and depends on what you want to do with the server, but can be modified easily
